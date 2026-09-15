@@ -14017,6 +14017,8 @@
     <string name="sim_category_inactive_sim">Inactive</string>
     <!-- Provider Model: summary of default config. [CHAR LIMIT=50] -->
     <string name="sim_category_default_active_sim">\u0020/ Default for <xliff:g name="default_sim_config" example=" / Default for calls">%1$s</xliff:g></string>
+    <!-- About Phone -->
+    <string name="reyaanshdroid_version">ReyaanshDroid Version</string>
     <!-- Provider Model: summary of default call. [CHAR LIMIT=50] -->
     <string name="default_active_sim_calls">calls</string>
     <!-- Provider Model: summary of default SMS. [CHAR LIMIT=50] -->
